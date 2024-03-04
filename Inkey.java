@@ -1,6 +1,6 @@
 public class Inkey{
 	
-	//create a constructor
+	//create test a constructor
 	public Inkey(String a){
 		
 		System.out.println(a);  //print pinky's value
